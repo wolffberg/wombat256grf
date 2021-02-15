@@ -148,7 +148,7 @@ endfun
 "
 " non-syntax items, interface, etc
 
-call s:hi("Normal",       "dddddd", "242424", "none",   "")
+call s:hi("Normal",       "dddddd", "3c0315", "none",   "")
 call s:hi("NonText",      "4c4c36", "",       "none",   "")
 call s:hi("Cursor",       "222222", "ecee90", "none",   "")
 
